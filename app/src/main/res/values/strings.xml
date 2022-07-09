@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MakeItRain</string>
+    <string name="current_balance">Current Balance</string>
+    <string name="money">$0</string>
+    <string name="make_it_rain">Make It Rain</string>
+    <string name="info">Info</string>
+    <string name="money_value">$0</string>
+
+</resources>
